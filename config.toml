@@ -1,0 +1,4 @@
+baseURL = "https://77doc.github.io/"
+languageCode = "zh-cn"
+theme = "hyde"
+title = "企企生存手册"
