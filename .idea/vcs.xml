@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/public" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/public/77doc.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-book" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/hyde" vcs="Git" />
   </component>
 </project>
