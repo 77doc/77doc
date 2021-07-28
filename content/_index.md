@@ -3,7 +3,7 @@ bookFlatSection: true
 title: 77前端--新手村生存攻略
 ---
 
-<span style="font-size: 20vh;line-height: 1.2;">🍻</span>
+<span style="font-size: 20vh;line-height: 1.2;">🍻😍</span>
 <hr />
 贡献指南：
 
